@@ -1,32 +1,22 @@
-# Java Program: Sleep In
 
-## Description
+# Java Problem Solving: Solutions
 
-This Java program, named "Sleep In", determines whether you can sleep in based on two boolean inputs: `weekday` and `vacation`. It provides a simple decision-making process using conditional logic to decide the output.
+Welcome to the solutions directory of java-problem-solving! This directory contains solutions to various programming practice problems solved using Java. Each problem solution is organized into its own subdirectory, where you can find detailed descriptions and implementations.
 
-## How It Works
+## Structure
 
-The program begins by prompting the user to input two boolean values:
-- `weekday`: Indicates whether it is a weekday (`true` or `false`).
-- `vacation`: Indicates whether the user is on vacation (`true` or `false`).
+- Each problem solution is stored in its own subdirectory named after the problem title.
+- Inside each subdirectory, you will find:
+  - `README.md`: A detailed description of the problem statement and solution approach.
+  - `.java`: Java implementation of the solution.
 
-Using these inputs, the program calls a method `sleepIn(boolean weekday, boolean vacation)` to determine if the user can sleep in. The method evaluates the conditions:
-- If it's not a weekday (`!weekday`) or the user is on vacation (`vacation`), it returns `true`, indicating that the user can sleep in.
-- Otherwise, it returns `false`, indicating that the user cannot sleep in.
+## How to Use
 
-Finally, the program outputs the result to the console, informing the user whether they can sleep in or not based on the provided inputs.
+1. **Explore**: Navigate through the subdirectories to find problems you are interested in.
+2. **Learn**: Open the `README.md` file inside each subdirectory to understand the problem statement and study the solution approach.
+3. **Implement**: Review the `Solution.java` file to see how the problem was solved in Java.
 
-## Example
+## List of Solutions
 
-### Input:
-```java
-Is it weekday? true
-Are you on vacation? false
-```
+- [sleepIN](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sleepIN)
 
-### Output:
-```
-Can you sleep in? false
-```
-
-This program is a basic example of using boolean conditions and methods in Java to solve a simple decision-making problem.

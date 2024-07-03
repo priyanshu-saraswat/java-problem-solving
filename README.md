@@ -29,7 +29,8 @@ This repository serves as a resource for Java developers to explore and understa
 
 | Program Title                                     | Description                                             |
 |----------------------------------------------------|---------------------------------------------------------|
-| sleepIn    | This Java program, named "Sleep In", determines whether you can sleep in based on two boolean inputs: weekday and vacation. It provides a simple decision-making process using conditional logic to decide the output.|
+| sleepIn    | This Java program, named "Sleep In", determines whether you can sleep in based on two boolean inputs: weekday and vacation. It provides a simple decision-making process using conditional logic to decide the output|
+| RedTicket    | This Java program, named "Red Lottery Ticket", calculates the outcome of a red lottery ticket based on three integer inputs: a, b, and c. Each integer can be 0, 1, or 2. The program applies specific rules using conditional logic to determine the result|
 
 
 

@@ -21,3 +21,5 @@ Welcome to the solutions directory of java-problem-solving! This directory conta
 - [sleepIN](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sleepIN)
 
 - [RedTicket](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/redticket)
+
+- [SumLimit](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sumlimit)

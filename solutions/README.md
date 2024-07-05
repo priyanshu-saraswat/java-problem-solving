@@ -23,3 +23,5 @@ Welcome to the solutions directory of java-problem-solving! This directory conta
 - [RedTicket](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/redticket)
 
 - [SumLimit](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sumlimit)
+
+- [FizzString](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/fizzstring)

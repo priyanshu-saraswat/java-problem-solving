@@ -25,3 +25,5 @@ Welcome to the solutions directory of java-problem-solving! This directory conta
 - [SumLimit](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sumlimit)
 
 - [FizzString](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/fizzstring)
+
+- [MakeTags](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/maketags)

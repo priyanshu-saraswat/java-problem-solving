@@ -34,5 +34,6 @@ This repository serves as a resource for Java developers to explore and understa
 |SumLimit|Calculates a result based on two non-negative integer inputs: a and b. The program adds the two integers and checks the number of digits in the sum. If the number of digits in the sum is the same as the number of digits in a, it returns the sum; otherwise, it returns a|
 |FizzString|Determines a result based on the input string. It uses conditional logic to check if the string starts with the letter "f" and/or ends with the letter "b". Depending on these conditions, it returns "Fizz", "Buzz", "FizzBuzz", or the original string|
 |MakeTags|Generates an HTML string with a specified tag and word. It uses simple string concatenation to create the HTML tag structure.|
+|Without Ten|This Java program takes an array of integers as input and removes any occurrences of the number 10|
 ---
 

@@ -27,3 +27,5 @@ Welcome to the solutions directory of java-problem-solving! This directory conta
 - [FizzString](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/fizzstring)
 
 - [MakeTags](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/maketags)
+
+- [WithoutTen](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/withoutTen)

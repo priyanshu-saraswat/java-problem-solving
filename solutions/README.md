@@ -30,4 +30,6 @@ Welcome to the solutions directory of java-problem-solving! This directory conta
 
 - [WithoutTen](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/withoutTen)
 
-- [Zero Front](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/zeroFront) 
+- [Zero Front](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/zeroFront)
+
+-[Max Mirror](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/maxMirror) 

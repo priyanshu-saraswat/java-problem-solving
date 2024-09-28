@@ -36,5 +36,6 @@ This repository serves as a resource for Java developers to explore and understa
 |MakeTags|Generates an HTML string with a specified tag and word. It uses simple string concatenation to create the HTML tag structure.|
 |Without Ten|This Java program takes an array of integers as input and removes any occurrences of the number 10|
 |Zero Front|This Java program takes an array of integers as input and moves all 0s to the front of the array|
+|Max Mirror|This Java program calculates the size of the largest "mirror" section in an array. A mirror section in an array is a subarray that is mirrored or appears in reverse elsewhere in the array. The program finds the largest such mirror section and returns its length|
 ---
 
